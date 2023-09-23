@@ -1,32 +1,40 @@
 # 💻 Skills
 
-## General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+## Productivity Suite
+- Agile | Waterfall | Kanban
+- Jira | Trello | Discord
+- Confluence
+- Figma | Balsamiq | LucidChart
+- Distributed Teams
+- Telegram
 
 ## Programming languages
-- C# .NET
-- Python
-- JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+- Ruby | Ruby on Rails
+- Javascript | Node.js | React | Redux | ES6
+- Java | Java Spring
+- HTML | CSS
+- Solidity
 
-## Databases
-- MSSQL
-- PostgreSQL
-- MySQL
-- SQLite
+## Blockchain
+- Solidity
+- Hyperledger Besu
+- Truffle
+- Ganache
+- Web3.js | Ether.js
+- Geth | Parity
 
-## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+## Development Operations
+- Git | Bitbucket
+- Postman | Swagger
+- NPM | Maven | Ruby Gems
+- Virtual Box | Vagrant
+- CI/CD | Jenkins| Bamboo | Cucumber BDD
 
-## Vcs
-- Git
+## Technical Writing
+- Latex
+- Markdown
+- Vizio
+- Microsoft Suites
+- Google Docs
+- PowerPoint
+- Pitch Deck Pro

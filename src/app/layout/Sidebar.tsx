@@ -72,10 +72,10 @@ export default function Sidebar({
             <VscFiles />
           </Box>
         </Box>
-        <Tooltip title="Source of this project" arrow placement="right">
+        <Tooltip title="Link to my resume" arrow placement="right">
           <Link
             target="_blank"
-            href={"https://github.com/noworneverev/react-vscode-portfolio"}
+            href={"https://drive.google.com/file/d/10R_wZg9tLmzFMNW4O9QqJWwOdu_JWe1G/view?usp=drive_link"}
             underline="none"
             color="inherit"
             sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}

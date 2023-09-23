@@ -1,25 +1,76 @@
 # 👨‍💻 Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+### Blockchain Product Strategist - [JP Morgan Chase](https://www.jpmorganchase.com/) _(Apr 2020 - Present)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+Drove the product vision & strategy of Blockchain Center of Excellence (BCOE) Financial products including Intraday repo trading platform, ‘CanDiD’ digital identity & Chase autos lending platform. leveraging data analysis, customer insights, & market trends to inform decision-making for product features.
 - Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+  - Led a geographically dispersed, cross-functional team of engineers and designers to strategize, iterate, and successfully launch products on JP Morgan's Onyx digital asset suite. Collaborated closely with our legal and compliance teams to gain a comprehensive understanding of the regulatory landscape and seamlessly integrated compliance and reporting requirements.
+  - Implemented Agile methodologies to optimize product development cycles, resulting in increased project delivery efficiency. Achieved this by optimizing velocity and proactively leveraging knowledge and foresight to reduce blockers.
+  - Responsible for the growth & product direction of our distributed Intraday Repo platform integrating new counterparties into the platform.
+- _**Technologies used:**_ Agile, Figma, AWS, Jira, Confluence, Postman, DBeaver, Geth
+
+&nbsp;
+---
+
+### Product Manager - [IOMAXIS (Rebranded to MAXISIQ)](https://www.iomaxis.com/) _(Aug 2018 - Apr 2020)_ Secret Security Clearance
+
+Worked with several contracts in the defense space & public sector, collaborating with an interdisciplinary set of team members; working in an Agile framework to deliver efficient, scalable products to our Department of Defense (DOD) customers.
+- Detailed achievements:
+  - Led the product development efforts for Amelia, an AI chatbot seamlessly integrated into the Department of Defense (DOD) customer banking system, as well as other SAAS products like an MES system for lab-grown diamonds, all executed within an Agile framework.
+  - Conducted interviews and collaborated closely with our customers to gain insights into their pain points and assess product usability concerns.
+  - Steered the product vision and strategy for a robust portfolio of products, drawing from customer insights, market trends, and data analysis to drive informed decision-making.
+  - Proficient in technical writing encompassing the creation of comprehensive product requirement documents, detailed technical specifications, API documentation, and strategic roadmaps.
+- _**Technologies used:**_ Agile, Jira, Confluence, Balsamiq, LucidChart, Postman, Vagrant, AWS
+
+### Software Engineer - [IOMAXIS (Rebranded to MAXISIQ)](https://www.iomaxis.com/) _(May 2017 - Aug 2018)_ Secret Security Clearance
+
+Worked with several contracts in the defense space & public sector, collaborating with an interdisciplinary set of team members; working in an Agile framework to deliver efficient, scalable products to our Department of Defense (DOD) customers.
+- Detailed achievements:
+  - Leveraged React components and libraries to build interactive UI components and enhance user experiences.
+  - Contributed to the development of technical documentation and API references, facilitating the onboarding of new team members.
+  - Utilized Vagrant to create consistent development environments, streamlining collaboration and reducing deployment issues.
+  - Participated in daily stand-up meetings and agile development processes to foster effective communication and project coordination.
+  - Designed, developed, and maintained robust RESTful APIs using Ruby on Rails, facilitating seamless communication between client & server side applications.
+  - Collaborated closely with cross-functional teams, to define API requirements and specifications.
+- _**Technologies used:**_ Agile, Jira, Confluence, React, Ruby on Rails, Vagrant, AWS, Postman
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+---
+### Software Engineer - [Northrop Grumman](https://www.northropgrumman.com/) _(June 2016 - May 2017)_ Secret Security Clearance
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
 - Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+  - Developed software for radar & satellite payload systems within Northrop Grumman's advanced technology program.
+  - Contributed to the development of technical documentation and API references, facilitating the onboarding of new team members.
+  - Redesigned flight software for satellite payload systems.
+  - Created automated tests for web services using Serenity BDD | TDD with REST API services.
+  - Created documentation for classified flight software.
+- _**Technologies used:**_ Agile, Jira, Confluence, Bitbucket, Cucumber BDD, Java Spring, C++, Docker, Postman
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+---
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+### Systems Design Engineer - [Boeing](https://www.northropgrumman.com/) _(June 2014 - June 2016)_
+
+- Detailed achievements:
+  - NGS 777x component manager & central liaison between customers, engineers and suppliers.
+  - Maintained NGS system components in windchill PLM while working with engineers & executives to deliver high quality products to the 777x.
+  - facilitated the creation of technical documentation for FAA 777x component certification.
+  - Lead the analysis of fire & smoke detection systems for the 787 Dreamliner.
+- _**Technologies used:**_ Windchill PLM, SolidWorks, Visual Basic, Excel
+
+&nbsp;
+
+---
+
+### Product Design Intern - [Dell](https://www.dell.com/en-us) _(Summer 2013)_
+
+- Detailed achievements:
+  - Developed custom structures for OEM solutions servers
+  - Modeled PCB's in CREO 2.0 & Expedition. 
+  - Created Technical Drawings using Creo 2.0. 
+  - Coordinated with manufactures & machine shops to deliver final products.
+- _**Technologies used:**_ Windchill PLM, SolidWorks, Visual Basic, Excel
+
+&nbsp;
