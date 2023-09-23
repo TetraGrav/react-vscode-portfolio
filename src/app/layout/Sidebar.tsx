@@ -75,7 +75,7 @@ export default function Sidebar({
         <Tooltip title="Link to my resume" arrow placement="right">
           <Link
             target="_blank"
-            href={"https://drive.google.com/file/d/10R_wZg9tLmzFMNW4O9QqJWwOdu_JWe1G/view?usp=drive_link"}
+            href={"https://drive.google.com/file/d/10TY37heViYv7xTUPbhUzU4TRIE5eqxhS/view?usp=drive_link"}
             underline="none"
             color="inherit"
             sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
