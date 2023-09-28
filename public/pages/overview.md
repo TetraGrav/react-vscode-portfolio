@@ -1,6 +1,6 @@
 # 📖 Overview
 
-Marcus is an accomplished Product Manager with a strong engineering background, bringing a wealth of expertise and innovation to the Blockchain sector. With a profound understanding of the unique value propositions of Web3, Marcus is well-versed in addressing the challenges businesses encounter while building and onboarding users into the Web3 space. His deep comprehension of Decentralized Finance(DeFi), Decentralized Identifiers (DIDs), and Non-Fungible Tokens(NFTs) enables him to effectively tackle the three major challenges of Web3: Usability, Scalability, and Capital Efficiency.
+As a product manager with a solid developer background, my journey in fintech and AI projects has honed my ability to navigate complex technical landscapes. My passion lies in leveraging data-driven insights to make informed decisions that prioritize customer needs. Flourishing in the dynamic environment of ambiguity, I derive genuine excitement from spearheading the development of innovative and sophisticated products that not only meet but surpass user expectations. As a product manager, I boast a substantial track record of collaborative efforts with my team, yielding reliable, scalable, and secure applications that delight consumers.
 
 ## Notable Projects
 
