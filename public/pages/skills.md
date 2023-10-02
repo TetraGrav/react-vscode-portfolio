@@ -8,6 +8,10 @@
 - Distributed Teams
 - Telegram
 
+## Data Analytics
+- Googla Analytics
+- Mixpanel
+
 ## Programming languages
 - Ruby | Ruby on Rails
 - Javascript | Node.js | React | Redux | ES6
@@ -26,6 +30,7 @@
 ## Development Operations
 - Git | Bitbucket
 - Postman | Swagger
+- Netlify | Firebase
 - NPM | Maven | Ruby Gems
 - Virtual Box | Vagrant
 - CI/CD | Jenkins| Bamboo | Cucumber BDD

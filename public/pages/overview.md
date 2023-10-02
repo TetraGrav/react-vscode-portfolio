@@ -1,6 +1,6 @@
 # 📖 Overview
 
-As a product manager with a solid developer background, my journey in fintech and AI projects has honed my ability to navigate complex technical landscapes. My passion lies in leveraging data-driven insights to make informed decisions that prioritize customer needs. Flourishing in the dynamic environment of ambiguity, I derive genuine excitement from spearheading the development of innovative and sophisticated products that not only meet but surpass user expectations. As a product manager, I boast a substantial track record of collaborative efforts with my team, yielding reliable, scalable, and secure applications that delight consumers.
+Marcus is a seasoned Product Manager with a engineering background, bringing a wealth of expertise and innovation to the financial technology sector. With a profound understanding of the intricate needs of traders and investors, Marcus has consistently delivered solutions that enhance user experiences, streamline operations, and boost profitability. Notably, Marcus has spearheaded groundbreaking projects, such as "Intraday Repo," a distributed EVM-based trading platform that addresses intraday liquidity challenges and successfully facilitated the first multi-billion dollar interbank transaction on a distributed ledger.
 
 ## Notable Projects
 
