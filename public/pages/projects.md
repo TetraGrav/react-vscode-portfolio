@@ -1,4 +1,4 @@
-# 🧪 Projects
+# 🧪 Side Projects
 
 ### Consenys Blockchain Project [content-auditor-github](https://github.com/MarcusWordlaw/content-auditor) 🔗
 This project demo's the ability for cross organizational data to utilize Blockchain as an audit layer. The system displays how an organization's administrator can be alerted to the inclusion of modified or malicious data.

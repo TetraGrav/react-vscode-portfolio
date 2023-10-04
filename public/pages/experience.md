@@ -1,8 +1,8 @@
 # 👨‍💻 Experience
 
-### Blockchain Product Strategist - [JP Morgan Chase](https://www.jpmorganchase.com/) _(Apr 2020 - Present)_
+### Product Manager - [JP Morgan Chase](https://www.jpmorganchase.com/) _(Apr 2020 - Present)_
 
-Drove the product vision & strategy of Blockchain Center of Excellence (BCOE) Financial products including Intraday repo trading platform, ‘CanDiD’ digital identity & Chase autos lending platform. leveraging data analysis, customer insights, & market trends to inform decision-making for product features.
+Drove the product vision & strategy including Intraday repo trading platform, ‘CanDiD’ digital identity & Chase autos IOT platform. leveraging data analysis, customer insights, & market trends to inform decision-making for product features.
 - Detailed achievements:
   - Led a geographically dispersed, cross-functional team of engineers and designers to strategize, iterate, and successfully launch products on JP Morgan's Onyx digital asset suite. Collaborated closely with our legal and compliance teams to gain a comprehensive understanding of the regulatory landscape and seamlessly integrated compliance and reporting requirements.
   - Implemented Agile methodologies to optimize product development cycles, resulting in increased project delivery efficiency. Achieved this by optimizing velocity and proactively leveraging knowledge and foresight to reduce blockers.
@@ -12,19 +12,19 @@ Drove the product vision & strategy of Blockchain Center of Excellence (BCOE) Fi
 &nbsp;
 ---
 
-### Product Manager - [IOMAXIS (Rebranded to MAXISIQ)](https://www.iomaxis.com/) _(Aug 2018 - Apr 2020)_ Secret Security Clearance
+### Product Manager - [IOMAXIS (Rebranded to MAXISIQ)](https://www.iomaxis.com/) _(Aug 2018 - Apr 2020)_ 
 
-Worked with several contracts in the defense space & public sector, collaborating with an interdisciplinary set of team members; working in an Agile framework to deliver efficient, scalable products to our Department of Defense (DOD) customers.
+Worked with several products, collaborating with an interdisciplinary set of team members; working in an Agile framework to deliver efficient, scalable, usable products to our customers.
 - Detailed achievements:
-  - Led the product development efforts for Amelia, an AI chatbot seamlessly integrated into the Department of Defense (DOD) customer banking system, as well as other SAAS products like an MES system for lab-grown diamonds, all executed within an Agile framework.
-  - Conducted interviews and collaborated closely with our customers to gain insights into their pain points and assess product usability concerns.
+  - Orchestrated the product development initiatives for Amelia, an AI solution seamlessly integrated into the Department of Defense (DOD) ticketing system, along with the successful deployment of additional Software as a Service (SAAS) products, such as an Manufacturing Execution System (MES) system tailored for lab-grown diamonds—each accomplished within an Agile framework.
+  - Utilized data analytics tools such as Mixpanel while collaborating closely with our customers to gain insights into their pain points and assess product usability concerns.
   - Steered the product vision and strategy for a robust portfolio of products, drawing from customer insights, market trends, and data analysis to drive informed decision-making.
   - Proficient in technical writing encompassing the creation of comprehensive product requirement documents, detailed technical specifications, API documentation, and strategic roadmaps.
-- _**Technologies used:**_ Agile, Jira, Confluence, Balsamiq, LucidChart, Postman, Vagrant, AWS
+- _**Technologies used:**_ Agile, Jira, Confluence, Balsamiq, Google Analytics, Mixpanel, Postman, Vagrant, AWS
 
 ### Software Engineer - [IOMAXIS (Rebranded to MAXISIQ)](https://www.iomaxis.com/) _(May 2017 - Aug 2018)_ Secret Security Clearance
 
-Worked with several contracts in the defense space & public sector, collaborating with an interdisciplinary set of team members; working in an Agile framework to deliver efficient, scalable products to our Department of Defense (DOD) customers.
+Contributed during the initial startup phases, collaborating with an interdisciplinary set of team members; working in an Agile framework to deliver efficient, scalable products to our customers.
 - Detailed achievements:
   - Leveraged React components and libraries to build interactive UI components and enhance user experiences.
   - Contributed to the development of technical documentation and API references, facilitating the onboarding of new team members.

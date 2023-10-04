@@ -11,24 +11,18 @@
 ## Data Analytics
 - Googla Analytics
 - Mixpanel
+- Tableau 
 
 ## Programming languages
-- Ruby | Ruby on Rails
 - Javascript | Node.js | React | Redux | ES6
+- Ruby | Ruby on Rails
 - Java | Java Spring
 - HTML | CSS
 - Solidity
 
-## Blockchain
-- Solidity
-- Hyperledger Besu
-- Truffle
-- Ganache
-- Web3.js | Ether.js
-- Geth | Parity
-
 ## Development Operations
-- Git | Bitbucket
+- Git | Bitbucket 
+- SQL
 - Postman | Swagger
 - Netlify | Firebase
 - NPM | Maven | Ruby Gems
