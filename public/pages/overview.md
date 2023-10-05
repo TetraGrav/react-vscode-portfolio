@@ -1,6 +1,6 @@
 # 📖 Overview
 
-Marcus is a seasoned Product Manager with a engineering background, bringing a wealth of expertise and innovation to the financial technology sector. With a profound understanding of the intricate needs of traders and investors, Marcus has consistently delivered solutions that enhance user experiences, streamline operations, and boost profitability. Notably, Marcus has spearheaded groundbreaking projects, such as "Intraday Repo," a distributed EVM-based trading platform that addresses intraday liquidity challenges and successfully facilitated the first multi-billion dollar interbank transaction on a distributed ledger.
+Marcus is an accomplished Product Manager with a strong engineering background, bringing a wealth of expertise and innovation to the Blockchain sector. With a profound understanding of the unique value propositions of Web3, Marcus is well-versed in addressing the challenges businesses encounter while building and onboarding users into the Web3 space. His deep comprehension of Decentralized Finance(DeFi), Decentralized Identifiers (DIDs), and Non-Fungible Tokens(NFTs) enables him to effectively tackle the three major challenges of Web3: Usability, Scalability, and Capital Efficiency.
 
 ## Notable Projects
 

@@ -52,7 +52,7 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-              Product | Developer | Fintech | Web3
+              Product Management | Engineer | Fintech | Web3
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">
                   oops

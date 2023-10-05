@@ -13,8 +13,8 @@
 - Mixpanel
 
 ## Programming languages
-- Ruby | Ruby on Rails
 - Javascript | Node.js | React | Redux | ES6
+- Ruby | Ruby on Rails
 - Java | Java Spring
 - HTML | CSS
 - Solidity
