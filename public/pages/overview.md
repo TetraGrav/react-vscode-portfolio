@@ -1,6 +1,6 @@
 # 📖 Overview
 
-As a product manager with a solid engineering background, i've had a lengthy journey delivering several complex digital products, honing my ability to navigate complex technical landscapes. My passion lies in leveraging data-driven insights to make informed decisions that prioritize customer needs while quantiying impact. Flourishing in the dynamic environment of ambiguity, I derive genuine excitement from spearheading the development of innovative and sophisticated products that not only meet but surpass user expectations. As a product manager, I boast a substantial track record of collaborative efforts with my team, yielding reliable, scalable, and secure applications that delight consumers.
+As a product manager with a solid engineering background, i've had a lengthy journey delivering several complex digital products, honing my ability to navigate complex technical landscapes. My passion lies in leveraging data-driven insights to make informed decisions that prioritize customer needs while quantifying impact. Flourishing in the dynamic environment of ambiguity, I derive genuine excitement from spearheading the development of innovative and sophisticated products that not only meet but surpass user expectations. As a product manager, I boast a substantial track record of collaborative efforts with my team, yielding reliable, scalable, and secure applications that delight consumers.
 
 ## Notable Projects
 

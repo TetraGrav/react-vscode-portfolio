@@ -45,7 +45,7 @@ Contributed during the initial startup phases, collaborating with an interdiscip
   - Redesigned flight software for satellite payload systems.
   - Created automated tests for web services using Serenity BDD | TDD with REST API services.
   - Created documentation for classified flight software.
-- _**Technologies used:**_ Agile, Jira, Confluence, Bitbucket, Cucumber BDD, Java Spring, C++, Docker, Postman
+- _**Technologies used:**_ Agile, Jira, Confluence, Bitbucket, Cucumber BDD, Java Spring, C++, React, Docker, Postman
 
 &nbsp;
 
@@ -57,7 +57,8 @@ Contributed during the initial startup phases, collaborating with an interdiscip
   - NGS 777x component manager & central liaison between customers, engineers and suppliers.
   - Maintained NGS system components in windchill PLM while working with engineers & executives to deliver high quality products to the 777x.
   - facilitated the creation of technical documentation for FAA 777x component certification.
-  - Lead the analysis of fire & smoke detection systems for the 787 Dreamliner.
+  - Lead the data analysis & design of fire & smoke detection systems for the 787 Dreamliner.
+  - Conducted decompression analysis on Boeing's 747 Fuselage using Fortran and proprietary tooling
 - _**Technologies used:**_ Windchill PLM, SolidWorks, Visual Basic, Excel
 
 &nbsp;
