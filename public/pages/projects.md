@@ -24,7 +24,7 @@ Managed the development and launch of a decentralized finance protocol built on 
 A fundraising platform that utilizes deflationary mechanics & charity initiatives to reallocate funds to underserved pet shelters.
 - Developed a React front-end that integrated into Binance Smart chain using web3.js and other developer tooling.
 - Worked within the community to engage and drive engagement, while coming up with marketing initiatives for outreach and growth.
-- <span style="color:#D04425">Raised over 70,000USD for underserved pet shelters across the U.S.A</span>  🐕
+- <span style="color:#D04425">Raised 70,000USD for underserved pet shelters across the U.S.A</span>  🐕
 
 &nbsp;
 
@@ -44,6 +44,48 @@ A blockchain platform designed to provide a secure and private ecosystem for dig
 ### Marketing Initiatives @ [Quant Network](https://quant.network/) 🔗
 A blockchain interoperability protocol
 
+- I worked with team members of Quant Network to strategize on early stage market initiatives. Composing an in house marketing team to write twitter & blog posts & produce documentation.
+
 &nbsp;
+---
+
+### President Formula SAE @ [VCU](https://vcu.edu/) 
+1. **Team Leadership and Structure:**
+    - Orchestrated and led a multifaceted team of 43 members, strategically organized into specialized units like design, fundraising, marketing, and sub-teams focused on critical aspects such as engine fabrication, aerodynamics, and suspension.
+2. **Engineering and Design Excellence:**
+    - Spearheaded the creation of a cutting-edge custom tubular chassis using Solidworks, showcasing adept design skills.
+    - Innovatively developed a bespoke electronic paddle shifter employing Raspberry Pi microcontrollers, exemplifying a fusion of creativity and technological prowess.
+3. **Aerodynamic Optimization:**
+    - Rigorously tested small-scale models in university wind tunnels to refine and optimize aerodynamics, ensuring peak efficiency in the final design.
+4. **Financial Management and Lean Methodology:**
+    - Formulated comprehensive budgeting reports encompassing the entire project, totaling $120,000.
+    - Applied lean methodologies to identify and prioritize features, resulting in the development of a minimal viable product essential for the initial iteration.
+5. **Fundraising Mastery:**
+    - Pioneered fundraising efforts by collaborating with local businesses and various entities, securing essential materials crucial for the vehicle's construction.
+6. **Market Research and Iterative Design:**
+    - Conducted exhaustive market research to discern the requisite specifications for the vehicle, leveraging publicly available information from university competitors with comparable budgets.
+    - Iteratively refined design processes by assimilating insights from competitors, creating an efficient design pipeline that surpassed limitations posed by limited resources.
+7. **Historic Accomplishment as President:**
+    - As President, successfully completed the first driveable Formula SAE car in the nine-year history of the organization's founding at our university, showcasing exceptional leadership and project execution skills.
+    - Accomplished this monumental task while simultaneously completing a rigorous engineering degree, solidifying the university's presence in collegiate competitions and prompting a surge in team participation, necessitating a strict selection process.
+
+&nbsp;
+---
+
+### Co-Founder AM Motorsports
+
+1. **Entrepreneurial Venture:**
+    - Established a bespoke fabrication performance shop specializing in crafting unique solutions tailored for NASA and SCCA road cars.
+2. **Design and Analysis:**
+    - Engineered and manufactured tubular chassis for Toyota Starlett drag cars utilizing Solidworks, complemented by in-depth FEA (CAE) analysis to ensure robust structural designs.
+3. **Turbocharger Expertise:**
+    - Developed exclusive turbo solutions for street car customers, employing Garrett and Borg Warner turbochargers. Utilized compressor maps and CFD analysis tools to design highly efficient systems meeting precise power demands.
+4. **Installations:**
+    - Proficiently installed off-the-shelf turbo kits for Dodge Hemi 5.7-liter engines, enhancing their performance and responsiveness.
+5. **Design & Fabrication:**
+    - Crafted meticulously TIG welded manifolds for street car customers, showcasing precision and attention to detail in the fabrication process.
+6. **Strategic Business Growth:**
+    - Successfully scaled the company from a modest 1500 sq ft garage to a spacious 5000 sq ft facility, equipped with an in-ground dynamometer for comprehensive testing.
+    - Oversaw the expansion of the organization from an initial 4 employees to a dynamic team of 16, reflecting strategic management and organizational development.
 
 ---
